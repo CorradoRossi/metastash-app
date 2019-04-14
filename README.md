@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img width="150" src="https://rawgit.com/sysgears/apollo-universal-starter-kit/master/logo.svg"></a></p>
 
-# Metastash (Apollo Universal Starter Kit)
+## Metastash (Apollo Universal Starter Kit)
 
 [![Backers on Open Collective](https://opencollective.com/apollo-universal-starter-kit/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/apollo-universal-starter-kit/sponsors/badge.svg)](#sponsors)
